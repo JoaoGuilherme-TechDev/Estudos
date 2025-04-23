@@ -15,4 +15,3 @@ const data = new Date();
 console.dir(pessoa1)
 console.dir(data )
 
-console.log(pessoa1._proto_())
