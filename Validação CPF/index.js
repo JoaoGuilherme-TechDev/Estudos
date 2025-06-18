@@ -18,8 +18,6 @@ fazer novamente a conta mas até o primeiro digito
 */
 
 function ValidaCPF(cpfEnviado) {
-
-  
   Object.defineProperty(this, "cpfLimpo", {
     enumerable: true,
     get: function () {
