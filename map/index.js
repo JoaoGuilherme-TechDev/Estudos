@@ -23,5 +23,5 @@ for (const pessoa of pessoas) {
 // }
 
 novasPessoas.delete(2);
-console.log(novasPessoas);
+console.log(novasPessoas  );
  
